@@ -15,7 +15,7 @@ public class OperatorAritmatika {
 
         System.out.println("Hasil perkalian :" + hasilPerkalian);
 
-        int hasilPembagian = 10 % 2;
+        int hasilPembagian = 10 / 2;
 
         System.out.println("Hasil pembagian :" + hasilPembagian);
     }
