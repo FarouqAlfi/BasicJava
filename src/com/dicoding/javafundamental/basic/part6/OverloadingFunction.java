@@ -23,6 +23,7 @@ public class OverloadingFunction {
         );
     }
 
+    // Overloading method bisa menggunakan nama method yang sama tapi paramaternya harus beda
     public static double luasPersegi(double p, double l) {
         double luas = p * l;
 
